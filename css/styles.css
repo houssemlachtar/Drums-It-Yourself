@@ -829,7 +829,8 @@ body {
 
 .carousel {
     /* border: 2px solid #7a7a7a; activate this later */
-    height: 400px;
+    height: 430px;
+    /* Turn this height into 400px, later, back */
     overflow: hidden;
     position: relative;
     border-radius: 5px;
