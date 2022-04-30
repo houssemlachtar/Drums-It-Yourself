@@ -1,11 +1,11 @@
 # Drums-It-Yourself
 <p align="center">
 Interactive Drums<br>
-Learn drums and make your own beat
+Learn how to play drums and make your own beat
 <br>
 <br>        
 <a href="https://houssemlachtar.github.io/Drums-It-Yourself/">
-        <img alt="WavySounds.com" src="./img/Wavy-Sounds.com.jpg" />
+        <img alt="DrumsItYourself.com" src="./img/DrumsItYourself.com.jpg" />
     </a>
 <br>
 <a href="https://houssemlachtar.github.io/Drums-It-Yourself/">
