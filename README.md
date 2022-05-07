@@ -18,11 +18,23 @@ Learn how to play drums and make your own beat
 <details>
   <summary>Used Libraries</summary>
   
-<!--START_SECTION:activity-->
-1. [JQuery](https://jquery.com)
-2. [Font Awesome](https://fontawesome.com)
+
+1. [JQuery](https://jquery.com).
+2. [Font Awesome](https://fontawesome.com).      
 
 </details>
+
+
+<details>
+  <summary>Softwares</summary>
+  
+
+1. [Adobe Illustrator](https://www.adobe.com): to sketch the drums.        
+
+</details>
+
+
+## Responsive ✔️
 
 
 ## Follow me on
