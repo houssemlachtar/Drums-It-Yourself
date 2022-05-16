@@ -21,7 +21,8 @@ Learn how to play drums and make your own beat
 
 1. [JQuery](https://jquery.com).
 2. [Font Awesome](https://fontawesome.com).      
-
+3. [TweenMax](https://greensock.com/docs/v2/TweenMax).
+        
 </details>
 
 
