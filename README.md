@@ -38,6 +38,9 @@ Learn how to play drums and make your own beat
 ## Responsive ✔️
 
 
+## Web Audio not compatible with Safari Browser IOS ❌ 
+
+
 ## Follow me on
 
 [Instagram](https://www.instagram.com/houssem_lachtar/), [Linkedin ](https://www.linkedin.com/in/houssem-lachtar/), [Codepen](https://codepen.io/houssem-lachtar), [GitHub](https://github.com/houssemlachtar)
